@@ -20,3 +20,8 @@ This repository contains a curated list of free and high-quality resources for l
 | Natural Language Processing                | YouTube playlist | `1️⃣2️⃣`             |     2021     | free  | [CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) by Stanford University|
 | Deep Learning                              | YouTube playlist | `1️⃣2️⃣`             |     2020     | free  | [Deep Learning Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) by DeepMind x University College London       |
 | Computer Vision                            | YouTube playlist | `1️⃣2️⃣`             |     2018     | free  | [CS231n: Deep Learning for Computer Vision](https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) by Stanford University           |
+# 3️⃣ Contribution
+
+We would love your help in making this repository even better! If you know of an amazing AI course that isn't listed here, or if you have any suggestions for improvement, feel free to [open an issue](https://github.com/username/repo-name/issues) or [submit a pull request](https://github.com/username/repo-name/pulls).
+
+Together, let's make this the best AI learning hub on GitHub! 🚀
