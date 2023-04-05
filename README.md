@@ -3,3 +3,4 @@ This repository contains a curated list of free and high-quality resources for l
 # Machine Learning and Deep Learning Course Repository
 | Topic | Format | Difficulty | Release Year | Price | Course |
 | --- | --- | --- | --- | --- | --- |
+| Stable Diffusion and Deep Learning | website | 🟩🟩⬜ | 2023 | free | Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion by fast.ai |
