@@ -1,7 +1,6 @@
 # AI-Learning-Resources
 This repository contains a curated list of free and high-quality resources for learning various topics in artificial intelligence, including deep learning, natural language processing, computer vision, reinforcement learning, MLOps, multimodal machine learning, transformers, and prompt engineering. The resources are available in various formats, such as websites, YouTube playlists, and books, and are rated by difficulty and release year. The repository also includes links to related courses that can be taken for a deeper understanding of the topics.
 # Machine Learning and Deep Learning Course Repository
-<div style="text-align:center;">
 | Topic                                      | Format            | Difficulty  | Release Year | Price | Course                                                                    |
 |--------------------------------------------|-------------------|:-----------:|:------------:|:-----:|---------------------------------------------------------------------------|
 | Stable Diffusion and Deep Learning         | website           | ★★☆        |     2023     | free  | [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html) by fast.ai |
@@ -19,4 +18,3 @@ This repository contains a curated list of free and high-quality resources for l
 | Natural Language Processing                | YouTube playlist | ★★☆        |     2021     | free  | [CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) by Stanford University|
 | Deep Learning                              | YouTube playlist | ★★☆        |     2020     | free  | [Deep Learning Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) by DeepMind x University College London       |
 | Computer Vision                            | YouTube playlist | ★★☆        |     2018     | free  | [CS231n: Deep Learning for Computer Vision](https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) by Stanford University           |
-</div>
