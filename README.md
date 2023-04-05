@@ -3,7 +3,7 @@ This repository contains a curated list of free and high-quality resources for l
 # Machine Learning and Deep Learning Course Repository
 | Topic                                      | Format            | Difficulty  | Release Year | Price | Course                                                                    |
 |--------------------------------------------|-------------------|:-----------:|:------------:|:-----:|---------------------------------------------------------------------------|
-| Stable Diffusion and Deep Learning         | website           | ★★☆        |     2023     | free  | Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion by fast.ai |
+| Stable Diffusion and Deep Learning         | website           | ★★☆        |     2023     | free  | [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html) by fast.ai |
 | Deep Learning                              | YouTube playlist | ★☆☆        |     2023     | free  | 6.S191: Introduction to Deep Learning by Massachusetts Institute of Technology |
 | Deep Learning                              | YouTube playlist | ★☆☆        |     2023     | free  | Neural Networks: Zero to Hero by Andrej Karpathy                            |
 | Large Language Models and Prompt Engineering| website           | ★☆☆        |     2023     | free  | Prompt Engineering Guide by DAIR.AI                                        |
