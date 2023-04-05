@@ -18,4 +18,3 @@ This repository contains a curated list of free and high-quality resources for l
 | Natural Language Processing | YouTube playlist | <span style="color: blue">🔵🔵🟦</span> | 2021 | Free | CS224N: Natural Language Processing with Deep Learning by Stanford University |
 | Deep Learning | YouTube playlist | <span style="color: blue">🔵🟦🟦</span> | 2020 | Free | Deep Learning Lecture Series by DeepMind x University College London |
 | Computer Vision | YouTube playlist | <span style="color: blue">🔵🟦🟦</span> | 2018 | Free | CS231n: Deep Learning for Computer Vision by Stanford University |
-
