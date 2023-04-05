@@ -1,4 +1,4 @@
-<Align = center><h1 style="font-size: 56px;">🤖 AI-Learning-Resources 🤖</h1></center>
+:🤖 AI-Learning-Resources 🤖:
 
 # 1️⃣ Hello
 This repository contains a curated list of free and high-quality resources for learning various topics in artificial intelligence, including deep learning, natural language processing, computer vision, reinforcement learning, MLOps, multimodal machine learning, transformers, and prompt engineering. The resources are available in various formats, such as websites, YouTube playlists, and books, and are rated by difficulty and release year. The repository also includes links to related courses that can be taken for a deeper understanding of the topics.
